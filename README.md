@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+スポーツ選手のための質問・活動シェアアプリ
 
-Things you may want to cover:
+##  UI UX
 
-* Ruby version
+* ファーストビューで投稿がみれる
 
-* System dependencies
+* モバイルファースト
 
-* Configuration
+*  簡単に投稿できる
 
-* Database creation
+##  機能
 
-* Database initialization
+*  投稿機能（編集・削除）
+*  カテゴリー機能
+*  ログイン機能
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## 追加
 
-* Deployment instructions
-
-* ...
+*  Bootstrap 
+*  
